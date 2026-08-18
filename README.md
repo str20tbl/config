@@ -28,7 +28,7 @@ the Python Standard Library.
 
 ## Installation
 
-	go get github.com/revel/config
+	go get github.com/str20tbl/config
 
 ## Operating instructions
 
